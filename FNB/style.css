@@ -1,0 +1,27 @@
+h1{
+    color:deeppink;
+    font-family: sans-serif;
+}
+p{
+    color:fuchsia;
+    font-family:serif;
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+list-style-type: lower-roman;
+}
+ol{
+    list-style-image: url('pointer-icon.png') ;
+}
+a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+a:hover{
+        background-color: aqua;
+        color: #ffffff;
+}
